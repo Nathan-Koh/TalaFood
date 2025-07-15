@@ -1,0 +1,8 @@
+{
+  "name": "Pantry Pal Scanner",
+  "description": "An application to scan pantry products using your camera. It identifies the product name and expiry date using AI, and logs your items.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
